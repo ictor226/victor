@@ -16,7 +16,7 @@ console.log("F° = ", f)
 //abreviei por ser um atalho
 
 //ATIVIDADE 04
-var m = (7 * 200)
+var m = (7 * 100)
 //m seria metros
 // cm seria cemtimetros 
 console.log ("CM = ", m)
