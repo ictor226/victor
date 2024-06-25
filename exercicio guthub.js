@@ -174,8 +174,14 @@ if (mes == "janeiro"||mes == "março"|| mes == "maio" || mes == "julho" || mes =
 }
 
 
+else if (mes == "abril" || mes == "julho" ||mes == "setembro" || mes == "novembro"){
+console.log("o mes de" + mes, "tem 30 Dias  ")
+}
+else if (mes == "fevereiro"){
+  console.log( "o mes de " + mes, "tem 28 dias")
+}
 
-
+ 
 
 
 
