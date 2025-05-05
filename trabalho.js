@@ -25,7 +25,8 @@ console.log ("CM = ", m)
 var p = 100
 var d = (p * 0.9)
 
-console.log (`R$${p}`)
-console.log (`R$${d}`)
+
 //p seria preço
 //d seria desconto
+console.log (`R$${p}`)
+console.log (`R$${d}`)
