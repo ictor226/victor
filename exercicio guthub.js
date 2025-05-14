@@ -25,7 +25,6 @@ else if(numero <= 17){
 }
  
 console.log("-------------------------------------------------------------------------------------------------")
- 
 //3-Escreva um programa que verifique se um número fornecido pelo usuário é par ou ímpar
 console.log ("atividade 03")
 numero = 90
@@ -180,18 +179,3 @@ console.log("o mes de" + mes, "tem 30 Dias  ")
 else if (mes == "fevereiro"){
   console.log( "o mes de " + mes, "tem 28 dias")
 }
-
- 
-
-
-
-
-
-
-
-console.log("-------------------------------------------------------------------------------------------------")
-
-
-
-
-
