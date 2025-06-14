@@ -11,7 +11,6 @@ else if(numero <= -1){
 else if (numero == 0){
     console.log('Número é zero')
 }
- 
 console.log("-------------------------------------------------------------------------------------------------")
  
 //2-Crie um programa que leia a idade de uma pessoa e informe se ela é maior de idade (18 anos ou mais) ou menor de idade.
