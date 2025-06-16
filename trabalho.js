@@ -20,13 +20,27 @@ var m = (7 * 100)
 //m seria metros
 // cm seria cemtimetros 
 console.log ("CM = ", m)
-
 //ATIVIDADE05
 var p = 100
 var d = (p * 0.9)
-
-
 //p seria preço
 //d seria desconto
 console.log (`R$${p}`)
 console.log (`R$${d}`)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
